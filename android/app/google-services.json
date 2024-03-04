@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656894589221",
+    "project_id": "locker-android-24da9",
+    "storage_bucket": "locker-android-24da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656894589221:android:5794ac2a223813641dc2cc",
+        "android_client_info": {
+          "package_name": "com.locker_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDif3AxAgMlRer294hk5Rpzj4oeZ2UAJwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
